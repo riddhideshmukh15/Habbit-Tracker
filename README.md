@@ -26,4 +26,4 @@ A simple Python program to manage daily habits and track their completion status
 - Display habit completion statistics.
 
 ## Author
-**Siddhi Deshmukh**
+**Riddhi Deshmukh**
