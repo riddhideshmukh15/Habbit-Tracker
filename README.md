@@ -23,7 +23,7 @@ A simple Python program to manage daily habits and track their completion status
 ## Future Improvements
 - Save habits in a file.
 - Track daily streaks.
-- Display habit completion statistics.
+- Display habit completion statistics .
 
 ## Author
 **Riddhi Deshmukh**
